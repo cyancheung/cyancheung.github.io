@@ -1,2 +1,0 @@
-# cyancheung.github.io
-website
